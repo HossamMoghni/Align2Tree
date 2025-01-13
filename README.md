@@ -1,8 +1,11 @@
+
+
 # Align2Tree: Bioinformatics Automation Script
 <p align="center">
-  <img src="Align2Tree.png" alt="Align2Tree" />
+  <a href="Align2Tree.png">
+    <img src="Align2Tree.png" alt="Align2Tree" width="200" />
+  </a>
 </p>
-
 
 ## Overview
 
@@ -124,12 +127,12 @@ pip3 install ete3 pillow pyqt5 numpy
 
 #### Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/HossamMoghni/Align2Tree.git
 ```
 
 #### Navigate to the project directory:
 ```bash
-cd your-repo
+cd Align2Tree
 ```
 
 ## Input Requirements
