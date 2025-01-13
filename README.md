@@ -6,8 +6,8 @@ Align2Tree is a comprehensive bioinformatics script designed to automate key tas
 
 ## Workflow
 <p align="center">
-  <a href="align2tree_workflow.pdf">
-    <img src="workflow_preview.png" alt="Align2Tree Workflow" />
+  <a href="Align2Tree_Workflow.pdf">
+    <img src="Align2Tree_Workflow.pdf" alt="Align2Tree Workflow" />
   </a>
 </p>
 
