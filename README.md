@@ -1,6 +1,6 @@
 # Align2Tree: Bioinformatics Automation Script
 <p align="center">
-  <img src="Align2Tre.png" alt="Align2Tree" />
+  <img src="Align2Tree.png" alt="Align2Tree" />
 </p>
 
 
